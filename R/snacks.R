@@ -13,13 +13,6 @@ snacks <- function(grapes, apples, burritos) {
   grapes + apples / burritos
 }
 
-
-
-
-
-
-
-
 #' function
 #'
 #' @param people number of people (integer)
@@ -36,3 +29,5 @@ snacks <- function(grapes, apples, burritos) {
 hi <- function(people, places, things, time) {
   (people + places - things) * time
 }
+
+
