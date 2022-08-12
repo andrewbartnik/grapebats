@@ -9,7 +9,7 @@
 #'
 #' @examples
 colors <- function(yellow, red, blue) {
-  yellow + red / (blue)
+  pink <- yellow + red / (blue)
 }
 
 

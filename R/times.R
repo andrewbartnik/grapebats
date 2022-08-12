@@ -9,5 +9,5 @@
 #'
 #' @examples
 times <- function(night, day, twilight) {
-  night + day * (twilight)
+  dnight<- night + day * (twilight)
 }
